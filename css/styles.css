@@ -60,6 +60,7 @@ body main::before {
 body main::before { content: url(/images/jim.jpg); }
 body main#setup::before { content: url(/images/pvm.gif); }
 body main#goof-resources::before { content: url(/images/goof.png); }
+body main#tanx-resources::before { content: url(/images/gryphon.png); }
 
 /* just having a */
 #goof {
